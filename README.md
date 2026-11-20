@@ -32,6 +32,7 @@ I'm currently focused on strengthening my skills in **full-stack web development
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL"/>
 </p>
 
 ### 🛠️ Tools
