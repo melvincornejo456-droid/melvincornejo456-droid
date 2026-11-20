@@ -1,3 +1,9 @@
+<div align="center">
+
+<table>
+<tr>
+<td width="65%" align="left">
+
 # 👋 Hi, I'm Melvin Cornejo
 
 ### 💻 Full Stack Web Developer
@@ -6,7 +12,19 @@
 
 I build practical web applications using **PHP, MySQL, Laravel, JavaScript, HTML, and CSS**, with a focus on clean interfaces, reliable functionality, and continuous improvement.
 
-I'm currently focused on strengthening my skills in **full-stack web development** and building real-world applications that solve practical problems.
+🚀 Currently focused on building real-world web applications and strengthening my full-stack development skills.
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="./profile.jpg" width="250" alt="Melvin Cornejo"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
