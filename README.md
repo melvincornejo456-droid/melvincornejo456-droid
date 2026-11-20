@@ -1,16 +1,14 @@
-<div align="center">
-
 <table>
 <tr>
 <td width="65%" align="left">
 
-# 👋 Hi, I'm Melvin Cornejo
+👋 Hi, I'm Melvin Cornejo
 
-### 💻 Full Stack Web Developer
+💻 Full Stack Web Developer
 
-**BSIT Graduate | Web Application Developer | Continuous Learner**
+BSIT Graduate | Web Application Developer | Continuous Learner
 
-I build practical web applications using **PHP, MySQL, Laravel, JavaScript, HTML, and CSS**, with a focus on clean interfaces, reliable functionality, and continuous improvement.
+I build practical web applications using PHP, MySQL, Laravel, JavaScript, HTML, and CSS, with a focus on clean interfaces, reliable functionality, and continuous improvement.
 
 🚀 Currently focused on building real-world web applications and strengthening my full-stack development skills.
 
@@ -18,13 +16,11 @@ I build practical web applications using **PHP, MySQL, Laravel, JavaScript, HTML
 
 <td width="35%" align="center">
 
-<img src="./profile.jpg" width="250" alt="Melvin Cornejo"/>
+<img src="https://raw.githubusercontent.com/melvincornejo456-droid/melvincornejo456-droid/main/profile.jpg" width="250" alt="Melvin Cornejo"/>
 
 </td>
 </tr>
 </table>
-
-</div>
 
 ---
 
