@@ -91,17 +91,6 @@ My personal developer portfolio showcasing my projects, technical skills, experi
 
 ---
 
-## 🎯 Currently Learning
-
-- Laravel
-- Full Stack Web Development
-- REST API Development
-- Database Architecture
-- Modern JavaScript
-- Building scalable web applications
-
----
-
 ## 💡 My Development Philosophy
 
 > **Build practical solutions. Keep learning. Keep improving.**
