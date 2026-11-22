@@ -103,7 +103,7 @@ I believe good software is not only about writing code—it's about understandin
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/melvin-cornejo-3b38b0407/)
 - 💻 [GitHub](https://github.com/melvincornejo456-droid)
-- 🌐 Portfolio: Coming Soon
+- 🌐 Portfolio: http://mccornejo.great-site.net/?i=1
 
 ---
 
